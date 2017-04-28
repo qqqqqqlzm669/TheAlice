@@ -1,0 +1,5 @@
+2017年4月28日 16：40
+今天按照
+http://www.runoob.com/w3cnote/git-guide.html
+的教程成功的将建立的项目克隆到了本地，
+一切才刚刚要开始。
